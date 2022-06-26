@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="26503213-7a37-4776-b1de-70c1174618d4" name="parsing">
+        <fileTransfer rootFolder="/var/www/fastuser/data/www/parsing.magnit.best" accessType="SFTP" host="magnit.best" port="22" sshConfigId="4edfd4fe-4c89-4a7b-96c0-d63635199875" sshConfig="fastuser@magnit.best:22 password">
+          <advancedOptions>
+            <advancedOptions controlEncoding="utf-8" dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
